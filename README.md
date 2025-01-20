@@ -1,4 +1,4 @@
-  <h3>How to Play the Simon Says Game</h3>
+  <h3>Explaining the Game <b>Logic</b> and <b>Mechanics</b> </h3>
   <ol>
     <li><strong>Start the Game:</strong>
       <ul>
