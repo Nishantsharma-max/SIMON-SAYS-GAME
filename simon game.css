@@ -1,0 +1,29 @@
+body {
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     background-color: rgb(98, 112, 126);
+}
+
+.child{
+     height: 100px;
+     width: 100px;
+     border: 4px solid black;
+     display: inline-block;
+     margin-left: 4px;
+     margin-top: 4px;
+     border-radius: 20%;
+}
+.info {
+     width: 400px;
+     display: flex;
+     justify-content:space-between;
+     align-items: center;
+}
+button{
+     background: red;
+     border-radius: 100%;
+     height: 50px;
+     width: 50px;
+     border-bottom: none;
+}
